@@ -8,3 +8,11 @@ h1 {
     font-weight:800px;
     font-style:italic;
 }
+
+.container {
+   border: 2px solid;
+   border-radius: 15px;
+   padding: 10px;
+   margin: 10px auto;
+}
+
