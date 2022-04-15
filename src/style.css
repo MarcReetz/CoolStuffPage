@@ -45,4 +45,9 @@ header {
   transform: translateY(-0.25em) translateX(0.25em);
 }
 
+.button-heavy-shadow:active{
+  background-color:darkgray;
+  color: white;
+}
+
 
