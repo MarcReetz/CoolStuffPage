@@ -198,5 +198,8 @@ header {
 }
 
 
-
+.button-heavy-shadow:active{
+  background-color:darkgray;
+  color: white;
+}
 
